@@ -1,0 +1,4 @@
+baseURL = 'https://red.protomyst.com/'
+languageCode = 'zh-cn'
+title = 'Red Team Learning Notes'
+theme = 'hextra'
